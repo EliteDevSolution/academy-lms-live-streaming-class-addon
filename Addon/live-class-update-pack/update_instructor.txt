@@ -1,0 +1,8 @@
+Update your Live class addon by following these simple steps.
+1. Open the folder "models" Which is located at "live-class-update-pack > models". Copy the file "Liveclass_model.php" and replace it with the existing "Liveclass_model.php" file.
+Which is located at "application > models > addon > Liveclass_model.php"
+
+2. Open the folder "views" Which is located at "live-class-update-pack > views". Copy the file "live_class.php" and replace it with the existing "live_class.php" file.
+Which is located at "application > views > lessons > live_class.php"
+
+N.B: MAKE SURE TO USE THE LATEST VERSION OF ZOOM APPLICATION WHILE ARRANGING ANY LIVE CLASS. ITS MANDATORY. OTHERWISE THINGS WILL NOT WORK HOW IT SUPPOSED TO DO.
